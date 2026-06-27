@@ -12,12 +12,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-  <!-- Add one <url> block per blog post, e.g.:
   <url>
-    <loc>https://johnwright.ai/blog/my-first-post/</loc>
+    <loc>https://johnwright.ai/blog/nousviz-faq/</loc>
     <lastmod>2026-06-27</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
-  -->
 </urlset>
